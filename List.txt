@@ -1,0 +1,34 @@
+Library Management
+Online shopping
+Consumer Banking system
+Learning Management System 
+Hospital Management 
+Travel Management (Bus)
+Travel Management (Train)
+Travel Management (Air)
+College Management
+School Management
+Event Management
+Multimedia Management
+Fleet Management system (eg:BMTC)
+Logistics Management
+HRMS
+Hotel Management
+Income Tax
+Moblile BSS
+
+actor,action,outcome
+
+Hospital Management
+Patient : Appointment, Specialists and tests availability
+Doctor : Patient Past records, Surgery list
+Finance Manager : Stats, Buy equipment
+Admin : 
+Pharmacy manager : Current drug availability, sell medicine
+Labs : Upload report 
+	
+	Slot change
+	Consult online
+	View health records
+	Organ donation
+	Treatment plans
